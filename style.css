@@ -1,6 +1,7 @@
-.heading {
-  color: navy;
+.outerDiv {
+  color: maroon;
   text-align: center;
+  font-size: 50px;
 }
 
 #root {
@@ -20,6 +21,6 @@
   margin-bottom: 5px;
   font-size: 30px;
 }
-.outer {
+.innerDiv {
   width: 100%;
 }
