@@ -9,13 +9,11 @@
   height: 600px;
   overflow-y: auto;
   border: 10px solid maroon;
-  border-radius: 20px;
+  border-radius: 10%;
 }
 
 .box {
   margin: 20px auto;
-  display: grid;
-  place-items: center;
   color:maroon;
   margin-bottom: 5px;
   font-size: 30px;
