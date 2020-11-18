@@ -1,0 +1,25 @@
+.heading {
+  color: navy;
+  text-align: center;
+}
+
+#root {
+  margin: auto;
+  width: 500px;
+  height: 600px;
+  overflow-y: auto;
+  border: 10px solid maroon;
+  border-radius: 20px;
+}
+
+.box {
+  margin: 20px auto;
+  display: grid;
+  place-items: center;
+  color:maroon;
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+.outer {
+  width: 100%;
+}
