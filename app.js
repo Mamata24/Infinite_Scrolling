@@ -26,6 +26,6 @@ getRandomImages(25);
 
 window.addEventListener('scroll', function () {
     if (window.scrollY + window.innerHeight + 100 >= document.documentElement.scrollHeight) {
-        fetchRandomImages(25);
+        getRandomImages(25);
     }
 })
